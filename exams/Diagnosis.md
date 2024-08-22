@@ -2,9 +2,9 @@
 
 | Nombre: | Fecha: | Matrícula: |
 |---------|--------|------------|
-|Sandra Gabriela Velasco Guzman| 22/08/2024| 20620165|
+|Sandra Gabriela Velasco Guzman  | 22/08/2024| 20620165|
 
-## Instrucciones
+## Instrucciones 
 
 Responde las siguientes preguntas de manera clara y concisa. Cada sección tiene un peso específico, así que distribuye tu tiempo en consecuencia.
 
