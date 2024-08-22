@@ -6,7 +6,7 @@
 
 ## Instrucciones 
 
-Responde las siguientes preguntas de manera clara y concisa. Cada sección tiene un peso específico, así que distribuye tu tiempo en consecuencia.
+Responde las siguientes preguntas de manera clara y concisa. Cada sección tiene un peso específico, así que distribuye tu tiempo en consecuencia..
 
 ## Sección 1: Componentes de un Sistema de Red (20%)
 
