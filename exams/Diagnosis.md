@@ -2,7 +2,7 @@
 
 | Nombre: | Fecha: | Matrícula: |
 |---------|--------|------------|
-|Sandra Gabriela Velasco Guzman  | 22/08/2024| 20620165|
+|Sandra Gabriela Velasco Guzman | 22/08/2024| 20620165|
 
 ## Instrucciones 
 
