@@ -10,7 +10,7 @@ Crear una base de datos vulnerable a inyección de código y demostrar como se p
 
 2. Crear una aplicación web que permita buscar un registro por su id, nombre o descripción.
   
-  - Esta aplicación debe ser vulnerable a inyección de código, esto significa que si el usuario ingresa un valor malicioso en el campo de búsqueda, la aplicación debe mostrar información que no debería ser accesible o permitir realizar acciones que no deberían ser posibles.
+- Esta aplicación debe ser vulnerable a inyección de código, esto significa que si el usuario ingresa un valor malicioso en el campo de búsqueda, la aplicación debe mostrar información que no debería ser accesible o permitir realizar acciones que no deberían ser posibles.
 
   ```python
   # Ejemplo en Python con Flask y SQLite (no usar en producción)
@@ -80,6 +80,7 @@ Crear una base de datos vulnerable a inyección de código y demostrar como se p
 
 - [SQL Injection](https://owasp.org/www-community/attacks/SQL_Injection)
 - [SQL Injection Cheat Sheet](https://portswigger.net/web-security/sql-injection/cheat-sheet)
+- [SQL Labs](https://portswigger.net/web-security/all-labs#sql-injection)
 
 ## Deadline
 
